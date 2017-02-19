@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\bin\Debug\BluebeamMazeRunner.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\bin\Debug\BluebeamMazeRunner.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\bin\Debug\BluebeamMazeRunner.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\obj\Debug\MazeRunner.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\obj\Debug\BluebeamMazeRunner.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\BluebeamMazeRunner\obj\Debug\BluebeamMazeRunner.pdb

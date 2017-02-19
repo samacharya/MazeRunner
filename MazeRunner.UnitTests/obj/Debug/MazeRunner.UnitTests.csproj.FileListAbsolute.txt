@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\bin\Debug\MazeRunner.UnitTests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\bin\Debug\MazeRunner.UnitTests.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\bin\Debug\BluebeamMazeRunner.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\bin\Debug\BluebeamMazeRunner.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\obj\Debug\MazeRunner.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\obj\Debug\MazeRunner.UnitTests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\BluebeamMazeRunner\MazeRunner.UnitTests\obj\Debug\MazeRunner.UnitTests.pdb
